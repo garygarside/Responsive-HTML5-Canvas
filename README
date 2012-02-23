@@ -1,5 +1,5 @@
-<h1>Responsive HTML5 canvas with draggable object</h1>
+Responsive HTML5 canvas with draggable object
 
-<p>A little experiment to see how easy it was to make a canvas and a child object relative. Uses a lot of JavaScript to do the math and is currently pretty restricted to some static calculations to rework the position and size of the rectangle. Try dragging the rectangle and resizing your browser.</p>
-<p>Next up: Make an unlimited amount of elements respond and add ability to add elements on the fly.</p>
-<p>Should work in IE9+ and recent builds of Chrome, Firefox, Safari & Opera.</p>
+A little experiment to see how easy it was to make a canvas and a child object relative. Uses a lot of JavaScript to do the math and is currently pretty restricted to some static calculations to rework the position and size of the rectangle. Try dragging the rectangle and resizing your browser.
+Next up: Make an unlimited amount of elements respond and add ability to add elements on the fly.
+Should work in IE9+ and recent builds of Chrome, Firefox, Safari & Opera.
